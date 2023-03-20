@@ -1,3 +1,7 @@
 Welcome to JOMACS IT SOLUTIONS
 We are located at Calgary in Canada
-please pass by to havr your IT needs solved
+JOMACS provides services in the following areas;
+Web Developmenyt
+Devops engineering
+Software Development
+Data science
